@@ -1,4 +1,4 @@
-package com.telsukoHarshal.simpleWebApp;
+package com.telsukoHarshal.simpleWebApp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
